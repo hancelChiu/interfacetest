@@ -15,6 +15,7 @@ common：
 
 result:
 项目执行时间目录
+
   ——logs：本次测试生成的日志文件
 
   ——report.html：本次生成的测试报告
